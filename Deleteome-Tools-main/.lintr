@@ -1,4 +1,0 @@
-linters: with_defaults(
-  # Disable all linters
-  .default = NULL
-)
